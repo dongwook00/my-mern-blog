@@ -1,9 +1,4 @@
-#client
-client/node_modules
-client/build
-client/src/config
-
-#server
-server/node_modules
-server/build
-server/src/config
+**/*/node_modules
+**/*/build
+**/*/config.ts
+*.json
